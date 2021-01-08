@@ -1,4 +1,4 @@
-### Hola folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hola folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👤 Rohit Kumar Dubey
 - 🎓 3rd year undergrad pursuing Bachelor's of Technology in Information Technology 
@@ -6,7 +6,7 @@
 
 
 
-## SKILLS <img src ="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/male-technologist_1f468-200d-1f4bb.png">
+### Skills
 
 <img src="https://www.talentxoom.com/learningPathImages/54d47563bc368d94622f60a1.png" height="150">                                   <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/python.gif" height="100"> <br>
 <img src ="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/k8s.gif" height="150"> 
@@ -16,7 +16,7 @@
 <img src="https://cdn.swapps.com/uploads/2018/02/ansible-header-1024x640.png" height="100"> 
 <img src="https://miro.medium.com/max/882/1*n5MnDrinAXeY2NpCX9H8cw.jpeg" height="100">
 
-
+<img src ="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/male-technologist_1f468-200d-1f4bb.png">
 
 
  📩 Reach out to me at
