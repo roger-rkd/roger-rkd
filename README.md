@@ -1,6 +1,6 @@
 ## Hola folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 👤 Rohit Kumar Dubey
+- 👤 **Rohit Kumar Dubey**
 - 🎓 3rd year undergrad pursuing Bachelor's of Technology in Information Technology 
 - 💼 IMUN Intern
 
