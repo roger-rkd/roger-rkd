@@ -6,7 +6,7 @@
 
 <hr>
 
-### Skills
+### Skills 🌟
 
 <img src="https://www.talentxoom.com/learningPathImages/54d47563bc368d94622f60a1.png" height="150">                                   <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/python.gif" height="100"> <br>
 <img src ="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/k8s.gif" height="150"> 
@@ -17,6 +17,8 @@
 <img src="https://miro.medium.com/max/882/1*n5MnDrinAXeY2NpCX9H8cw.jpeg" height="100">
 
 <hr>
+
+### Contact 📲
 
 <img src ="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/male-technologist_1f468-200d-1f4bb.png">
 
