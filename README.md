@@ -6,7 +6,7 @@
 - 📫 How to reach me: [LinkedIn - @rohitkrdubey](https://www.linkedin.com/in/rohitkrdubey/)
 - 😄 Pronouns: He/Him
 
-## Skills <img src ="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/male-technologist_1f468-200d-1f4bb.png">
+## SKILLS <img src ="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/male-technologist_1f468-200d-1f4bb.png">
 
 <img src="https://im.ezgif.com/tmp/ezgif-1-6f5e1b57a091.gif">
 
