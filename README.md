@@ -4,10 +4,10 @@
 - 🎓 3rd year undergrad pursuing Bachelor's of Technology in Information Technology 
 - 💼 IMUN Intern
 
-
+<hr>
 
 ### Skills
-<hr>
+
 <img src="https://www.talentxoom.com/learningPathImages/54d47563bc368d94622f60a1.png" height="150">                                   <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/python.gif" height="100"> <br>
 <img src ="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/k8s.gif" height="150"> 
 <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/docker.gif" height="150"> <br>
