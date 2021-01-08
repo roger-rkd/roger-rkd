@@ -8,6 +8,15 @@
 
 ## Skills <img src ="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/male-technologist_1f468-200d-1f4bb.png">
 
+<img src="https://im.ezgif.com/tmp/ezgif-1-6f5e1b57a091.gif">
+
+
+
+
+
+
+
+
 
 <img src ="https://github-readme-stats.vercel.app/api?username=roger-rkd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
