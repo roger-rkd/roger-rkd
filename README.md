@@ -3,8 +3,13 @@
 - 🔭 I’m currently working on MERN
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about Cloud Computing
-- 📫 How to reach me: @roger-rkd
+- 📫 How to reach me: [LinkedIn - @rohitkrdubey](https://www.linkedin.com/in/rohitkrdubey/)
 - 😄 Pronouns: He/Him
+
+
+
+
+<img src ="https://github-readme-stats.vercel.app/api?username=roger-rkd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
