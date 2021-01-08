@@ -1,5 +1,18 @@
 ### Hola folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+- 👤 Rohit Kumar Dubey
+- 🎓 3rd year undergrad pursuing Bachelor's of Technology in Information Technology 
+- 💼 IMUN Intern
+
+
+
+
+
+
+
+
+
+
 - 🔭 I’m currently working on MERN
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about Cloud Computing
@@ -13,7 +26,10 @@
 
 
 
-
+ 📩 Reach out to me at
+ - [LinkedIn - @rohitkrdubey](https://www.linkedin.com/in/rohitkrdubey/)
+ - [Twitter - @shivampandit27](https://www.twitter.com/shivampandit27/)
+ - [Email - @rohitkd207@gmail.com](https://www.gmail.com)
 
 
 
