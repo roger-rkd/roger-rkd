@@ -25,7 +25,7 @@
 
  📩 Reach out to me at
  - [LinkedIn - @rohitkrdubey](https://www.linkedin.com/in/rohitkrdubey/)
- - [Twitter - @shivampandit27](https://www.twitter.com/shivampandit27/)
+ - [Twitter - @RohitKrDubey](https://www.twitter.com/RohitKrDubey/)
  - [Email - @rohitkd207@gmail.com](https://www.gmail.com)
 
 
