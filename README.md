@@ -8,7 +8,7 @@
 
 ### Skills 🌟
 
-<img src="https://www.talentxoom.com/learningPathImages/54d47563bc368d94622f60a1.png" height="150">                                   <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/python.gif" height="100"> <br>
+<img src="https://nexax.in/wp-content/uploads/2020/11/java-1.gif" height="150">                                   <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/python.gif" height="100"> <br>
 <img src ="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/k8s.gif" height="150"> 
 <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/docker.gif" height="150"> <br>
 <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/terraform.gif" height="100"> 
