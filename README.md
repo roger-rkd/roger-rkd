@@ -2,7 +2,7 @@
 
 - 👤 **Rohit Kumar Dubey**
 - 🎓 3rd year undergrad pursuing Bachelor's of Technology in Information Technology 
-- 💼 IMUN Intern
+- 👨‍💻 Talks about Cloud & DevOps
 
 <hr>
 
