@@ -1,7 +1,7 @@
 ## Hola folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👤 **Rohit Kumar Dubey**
-- 🎓 3rd year undergrad pursuing Bachelor's of Technology in Information Technology 
+- 🎓 Final year undergrad pursuing Bachelor's of Technology in Information Technology 
 - 👨‍💻 Talks about Cloud & DevOps
 
 <hr>
@@ -25,7 +25,7 @@
 
  📩 Reach out to me at
  - [LinkedIn - @rohitkrdubey](https://www.linkedin.com/in/rohitkrdubey/)
- - [Twitter - @RohitKrDubey](https://www.twitter.com/RohitKrDubey/)
+ - [Twitter - @rogerstweet](https://www.twitter.com/rogerstweet/)
  - [Email - @rohitkd207@gmail.com](https://www.gmail.com)
 
 
