@@ -1,7 +1,7 @@
 ## Hola folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👤 **Rohit Kumar Dubey**
-- 🎓 Final year undergrad pursuing Bachelor's of Technology in Information Technology 
+- 🎓 Computing Science Postgrad in University of Glasgow 
 - 👨‍💻 Talks about Cloud & DevOps
 
 <hr>
