@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
 
-Hey there! I'm **Rohit Kumar Dubey**, a passionate Full Stack Developer & Data Enthusiast who thrives on solving real-world problems using clean code, creative design, and smart data.
+Hey there! I'm **Rohit Kumar Dubey**, a passionate **Full Stack Developer** & **Data Enthusiast** who thrives on solving real-world problems using clean code, creative design, and smart data.
 
 🚀 I love building things from the ground up, from designing intuitive frontend interfaces to architecting robust backend systems. Whether it’s **Python**, **JavaScript**, **Django**, or **SQL**, I enjoy making scalable, maintainable, and user-friendly apps that just work.
 
