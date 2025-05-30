@@ -15,8 +15,6 @@ Hey there! I'm **Rohit Kumar Dubey**, a passionate **Full Stack Developer** & **
 📫 Let’s connect and build together: [LinkedIn](https://linkedin.com/in/rohitkrdubey) | [Medium](https://roger-in.medium.com/) | [GitHub](https://github.com/roger-rkd) | [Gmail](mailto:dubeysmail@gmail.com)
 
 
-<hr>
-
 ## 🧠 Skills & Tools
 
 ### 💻 Programming & Scripting
