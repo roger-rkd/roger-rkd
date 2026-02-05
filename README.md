@@ -1,16 +1,21 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
 
-Hey there! I'm **Rohit Kumar Dubey**, a passionate **Full Stack Developer** & **Data Enthusiast** who thrives on solving real-world problems using clean code, creative design, and smart data.
+Hey there! I'm **Rohit Kumar Dubey**, a passionate **AI Engineer & Full Stack Developer** who thrives at the intersection of **intelligent models** and **scalable software**. I build systems that don't just process data—they understand it.
 
-🚀 I love building things from the ground up, from designing intuitive frontend interfaces to architecting robust backend systems. Whether it’s **Python**, **JavaScript**, **Django**, or **SQL**, I enjoy making scalable, maintainable, and user-friendly apps that just work.
+### 🚀 What I’m up to:
 
-📚 At the core of my journey lies a deep commitment to mastering **Data Structures & Algorithms**. I strongly believe that good code starts with good logic which is why I practice DSA daily to sharpen my problem-solving skills.
+* 🤖 **AI Engineering:** Architecting LLM-powered applications using **LangChain** and **RAG** (Retrieval-Augmented Generation). I specialize in **Fine-tuning** models and optimizing inference using **Groq** and **Hugging Face**.
 
-🔧 I also explore the world of **DevOps and Cloud** with tools like **Docker**, **Kubernetes**, **Terraform**, **Azure**, **AWS**, and **GCP** because modern software needs modern infrastructure.
+* ☁️ **Cloud & DevOps:** Deploying modern infrastructure on **Azure, AWS, and GCP** using **Docker, Kubernetes, and Terraform** to ensure AI solutions are production-ready.
+  
+* 💻 **Full Stack Development:** Building robust, end-to-end applications from intuitive **JavaScript** frontends to high-performance **Django** and **Python** backends.
 
-🌱 Currently documenting my learning journey through the **A2Z DSA roadmap**, open-source projects, and hands-on cloud/data engineering experiments.
+* 📊 **Data Strategy:** Designing **Semantic Models** and **KPI Dashboards** in **Power BI** to turn raw data into actionable intelligence.
 
-> 💡 “Code. Learn. Break. Fix. Repeat. That’s the process I live by.”
+
+> 💡 "Don't just build software; build intelligence. **Code. Automate. Scale. Repeat.**"
+
+
 
 📫 Let’s connect and build together: [LinkedIn](https://linkedin.com/in/rohitkrdubey) | [Medium](https://roger-in.medium.com/) | [GitHub](https://github.com/roger-rkd) | [Gmail](mailto:dubeysmail@gmail.com)
 
@@ -23,6 +28,14 @@ Hey there! I'm **Rohit Kumar Dubey**, a passionate **Full Stack Developer** & **
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### 🤖 AI Engineering & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-blueviolet?style=flat)
+![Fine Tuning](https://img.shields.io/badge/Fine--Tuning-Model%20Optimization-ff69b4?style=flat)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-LPU%20Inference-f3d122?style=flat)
+![GenAI](https://img.shields.io/badge/Generative%20AI-OpenAI/LLMs-412991?style=flat&logo=openai&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -59,9 +72,8 @@ Hey there! I'm **Rohit Kumar Dubey**, a passionate **Full Stack Developer** & **
 <hr>
 
 
+<p align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=roger-rkd&show_icons=true&theme=radical" width="48%" />
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roger-rkd&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=roger-rkd&theme=radical" width="48%" /> </p>
 
 ## 🌐 Let's Connect
 
