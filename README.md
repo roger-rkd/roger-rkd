@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
 
-Hey there! I'm **Rohit Kumar Dubey**, a passionate **AI Engineer & Full Stack Developer** who thrives at the intersection of **intelligent models** and **scalable software**. I build systems that don't just process data, they understand it.
+Hey there! I'm **Rohit Kumar Dubey**, an **Applied AI Engineer & Full Stack Developer** who thrives at the intersection of **intelligent models** and **scalable software**. I build systems that don't just process data, they understand it.
 
 ### 🚀 What I’m up to:
 
